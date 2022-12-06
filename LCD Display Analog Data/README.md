@@ -1,1 +1,1 @@
-
+In this project, there are the necessary codes for processing analog data by converting it to digital data and printing it on the LCD using Tiva. Some commands are written using ready-made libraries. So pay attention to the libraries defined at the beginning... // I use Code Composer Studio IDE.
